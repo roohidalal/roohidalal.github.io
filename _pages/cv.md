@@ -31,7 +31,7 @@ Invited Talks
   
 Teaching
 ======
-* Fall 2021: _Cosmology from Cosmic Shear Power Spectra with HSC Y3_, Tuscon Astrophysics and Cosmology Seminar, University of Arizona
+* Fall 2021: _AST255 - Life in the Universe_, Assistant in Instruction (Princeton)
 
 Advising
 ======
