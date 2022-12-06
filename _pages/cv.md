@@ -11,30 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Astrophysics and History, Caltech, 2014
+* M.A. in Astrophysics, Princeton University, 2021
+* Ph.D in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2023 (expected)
 
 Publications
 ======
@@ -42,18 +21,35 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Invited Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Nov 2022: _Cosmology from Cosmic Shear Power Spectra with HSC Y3_, Tuscon Astrophysics and Cosmology Seminar, University of Arizona
+* Oct 2022: _Space Debris and Nuclear Strategic Stability_, Princeton School on Science and Global Security
+* Feb 2022: _Brightest Cluster Galaxies are Statistically Special from 𝑧 = 0.3 to 𝑧 = 1_, Galread, Princeton University
+* Nov 2021: _Brightest Cluster Galaxies are Statistically Special from 𝑧 = 0.3 to 𝑧 = 1_, OPINAS Seminar, Max Planck Institute for Extraterrestrial Physics and Universitäts-Sternwarte München
+* May 2019: _Debiasing Ultralarge-scale cosmology_, de Sitter Seminar, Leiden University
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Fall 2021: _Cosmology from Cosmic Shear Power Spectra with HSC Y3_, Tuscon Astrophysics and Cosmology Seminar, University of Arizona
+
+Advising
+======
+* Jupiter Ding, _Miscentering of HSC CAMIRA clusters based on ACT SZ counterparts_, Undergraduate Summer Research Program and Junior Paper (2022)
+* Savannah Pobre, _Understanding tests of BCG specialness_, Undergraduate Summer Research Program and Junior Paper (2021)
+
+
+Honors and Awards
+======
+* __Best of Access, Diversity, and Inclusion Award (Princeton): Outstanding Programming__, for work done as President of the Princeton Women in STEM Leadership Council (2022)
+* __NSF Graduate Research Fellowship__, (2018-23)
+* __Fulbright Research Award__, Leiden University (2018-19)
+* __Mabel Beckman Prize (Caltech)__, for academic and personal excellence, outstanding character and leadership (2018)
+* __Eleanor Searle Prize in Law, Politics and Institutions (Caltech)__, for senior thesis in History (2018)
+* __Deans’ Cup (Caltech)__, for persistent efforts to improve the quality of undergraduate life (2017)
+* __Mellon Mays Undergraduate Fellowship (Caltech)__ (2016-18)
+* __Milton and Jane Mohr Scholarship (Caltech)__ (2014-15)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
