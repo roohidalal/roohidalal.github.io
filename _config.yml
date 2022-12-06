@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roohi Dalal"
 title_separator          : "-"
 name                     : &name "Roohi Dalal"
-description              : &description "Graduate Student in Astrophysics at Princeton University"
+description              : &description "Graduate Student at Princeton University, Department of Astrophysical Sciences"
 url                      : https://roohidalal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roohidalal/roohidalal.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roohi Dalal"
   avatar           : "Headshot v2.jpeg"
-  bio              : "Graduate Student in Astrophysics at Princeton University"
+  bio              : "Graduate Student at Princeton University, Department of Astrophysical Sciences"
   location         : "Princeton, New Jersey"
   employer         :
   pubmed           : 
