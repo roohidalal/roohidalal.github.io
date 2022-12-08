@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Equity and Inclusion"
-permalink: /dei/
+title: "Science Policy"
+permalink: /science_policy/
 author_profile: true
 redirect_from:
   - /resume
