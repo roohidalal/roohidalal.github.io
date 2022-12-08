@@ -18,7 +18,7 @@ Education
 Publications
 ======
 * __Dalal, R.__, et al., _Cosmology from Cosmic Shear Power Spectra with Hyper Suprime-Cam Y3 Data_ (in prep.)
-* Zhang, T., Li, X., __Dalal, R.__, et al., _A General Framework for Removing Point Spread Function Systematics in Cosmological Weak Lensing Analysis_, (2022, submitted to MNRAS)
+* Zhang, T., Li, X., __Dalal, R.__, et al., [_A General Framework for Removing Point Spread Function Systematics in Cosmological Weak Lensing Analysis_](https://arxiv.org/abs/2212.03257), (2022, submitted to MNRAS)
 * Rau, M. M., __Dalal, R.__, Zhang, T., Li, X., et al., [_A General Framework for Removing Point Spread Function Systematics in Cosmological Weak Lensing Analysis_](https://arxiv.org/abs/2211.16516), (2022, submitted to MNRAS)
 * Martinelli, M., __Dalal, R.__, Majidi, F., Akrami, Y., et al., [_Ultralarge-scale approximations and galaxy clustering: Debiasing constraints on cosmological parameters_](https://academic.oup.com/mnras/article/510/2/1964/6460492), MNRAS 510 (2022) 1964
 * __Dalal, R.__, Strauss, M. A., Sunayama, T., Oguri, M., et al., [_Brightest cluster galaxies are statistically special from z=0.3 to z=1_](https://academic.oup.com/mnras/article/507/3/4016/6353535) MNRAS 507 (2021) 4016
