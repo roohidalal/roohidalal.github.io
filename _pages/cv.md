@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my full CV [here](/files/pdf/Roohi_CV.pdf). A short summary is below. 
+You can download a PDF copy of my full CV [here](/files/pdf/CV 12-8-2022.pdf). A short summary is below. 
 
 Education
 ======
