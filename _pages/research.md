@@ -10,7 +10,7 @@ author_profile: true
 My scientific interests include constraining cosmology from cosmic shear and galaxy clustering, as well as studies of galaxy cluster properties and cluster cosmology. I am a member of both the Hyper Suprime-Cam and Atacama Cosmology Telescope collaborations, and am also interested in multi-probe cosmological analyses that utilize cross-correlations of cosmic shear, galaxy clustering, CMB lensing and Compton-y maps. I have also been engaged in a number of projects related to [science and space policy](../science_policy).
 
 # Cosmic Shear
-![Cosmic Shear Constraints](/images/Cosmic Shear.png)
+![Cosmic Shear Constraints](../../images/Cosmic shear.png)
 
 # Tomographic Galaxy Clustering
 
