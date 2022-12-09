@@ -17,7 +17,7 @@ In addition to the measurement and analysis of the cosmic shear data vector, I a
 
 # Tomographic Galaxy Clustering
 ![HSC Galaxies](../../images/HSC Cosmos.jpeg)
-I am also leading the HSC Year 3 analysis of tomographic galaxy clustering. We are looking at galaxy clustering angular power spectra in four tomographic redshift bins extending from $0.3<z<1.5$. We plan to use these measurements to study different methods for modeling nonlinear galaxy bias, including Halo Occupation Distribution (HOD) models as well as a Hybrid Effective Field Theory approach. We aim to evaluate whether HODs are a sufficient model for HSC data, as well as understand the extent to which we can jointly constrain cosmological parameters and these small scale clustering models. 
+I am also leading the HSC Year 3 analysis of tomographic galaxy clustering. We are looking at galaxy clustering angular power spectra in four tomographic redshift bins extending from $z=0.3$ to $z=1.5$. We plan to use these measurements to study different methods for modeling nonlinear galaxy bias, including Halo Occupation Distribution (HOD) models as well as a Hybrid Effective Field Theory approach. We aim to evaluate whether HODs are a sufficient model for HSC data, as well as understand the extent to which we can jointly constrain cosmological parameters and these small scale clustering models. 
 
 # CMB Cross-correlations
 ![HSCxACT](../../images/HSC ACT Footprint.png)
