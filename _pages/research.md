@@ -16,19 +16,19 @@ I am currently leading the HSC Year 3 analysis of cosmic shear in Fourier space.
 In addition to the measurement and analysis of the cosmic shear data vector, I am also involved in projects thinking about the systematics that can contaminate this measurement. In addition to excellent its excellent seeing conditions, HSC is deepest precursor survey to the Vera C. Rubin Observatory, so we are starting to see not only the strength of the data, but also all the systematic effects that we will have to worry about when doing our cosmological analyses. I have contributed to our measurement of the [sample redshift distribution](https://arxiv.org/abs/2211.16516), which uses clustering redshifts from a Luminous Red Galaxy sample, in addition to the photometric information we have for our full galaxy sample, to better constrain the distances to the galaxies we are using to measure cosmic shear. I have also worked on our model for biases in the cosmic shear measurement caused by the [Point Spread Function (PSF)](https://arxiv.org/abs/2212.03257). Although cosmic shear measurements have traditionally only modeled the impact of the second moments of the PSF, we extend the systematics model to higher moments and show that, for HSC Y3, the fourth moment PSF leakage term is the dominant contributor to the bias on the cosmic shear data vector, and that not correcting for this term can lead to significant biases in our cosmological parameter inference.   
 
 # Tomographic Galaxy Clustering
-<img src="../images/HSC Cosmos.jpeg" alt="HSC Galaxies" width="1000"/>
+<img src="../images/HSC Cosmos.jpeg" alt="HSC Galaxies" width="750"/>
 
 I am also leading the HSC Year 3 analysis of tomographic galaxy clustering. We are looking at galaxy clustering angular power spectra in four tomographic redshift bins extending from $z=0.3$ to $z=1.5$. We plan to use these measurements to study different methods for modeling nonlinear galaxy bias, including Halo Occupation Distribution (HOD) models as well as a Hybrid Effective Field Theory approach. We aim to evaluate whether HODs are a sufficient model for HSC data, as well as understand the extent to which we can jointly constrain cosmological parameters and these small scale clustering models. 
 
 # CMB Cross-correlations
 <!-- ![HSCxACT](../../images/HSC ACT Footprint.png) -->
-<img src="../images/HSC ACT Footprint.png" alt="HSCxACT" width="500"/>
+<img src="../images/HSC ACT Footprint.png" alt="HSCxACT" width="750"/>
 
 The long-term goal of my thesis is to obtain constraints on both cosmology and small scale (nonlinear) physics by combining the information we get from a galaxy survey like HSC, in the form of cosmic shear and galaxy clustering, with information from the CMB in the form of CMB lensing and thermal Sunyaev-Zeldovich (tSZ) maps from ACT.  In particular, using the tSZ map alongside these other large-scale structure observables will allow us to probe the baryon distribution and thus derive constraints on baryonic feedback effects on the matter power spectrum.
 
 # Galaxy Clusters
 <!-- ![CAMIRA Clusters](../../images/CAMIRA Clusters.png) -->
-<img src="../images/CAMIRA Clusters.png" alt="CAMIRA Clusters" width="500"/>
+<img src="../images/CAMIRA Clusters.png" alt="CAMIRA Clusters" width="750"/>
 
 In addition to cosmology with the HSC survey, I also study properties of galaxy clusters using the [CAMIRA HSC cluster catalog](https://github.com/oguri/cluster_catalogs). In particular, I have used the extraordinary depth of HSC to study the evolution of Brightest Cluster Galaxies (BCGs) as a function of redshift. BCGs are, by definition, the most luminous galaxies in each cluster, and are likely to have followed a different evolutionary path from other cluster member galaxies, due to processes like galactic cannibalism. This might cause their luminosities to be inconsistent with the overall cluster luminosity distribution, i.e. "special". In [my paper](https://doi.org/10.1093/mnras/stab2363), I showed that BCG luminosities are statistically special from $z=0.3$ all the way to $z=1.0$. This means that any evolutionary process to make them special must have happened earlier than a redshft of $z=1$.
 
