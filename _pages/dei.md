@@ -20,5 +20,8 @@ The Women in STEM Leadership Council is comprised of representatives from variou
 ## Graduate Scholars Program
 I have been a peer mentor for groups of first-year graduate students from diverse backgrounds. In this role, I have helped support them through the transition to graduate school and connect them to helpful resources on campus, in addition to organizing community-building events.
 
+## Caltech Title IX
+As an undergrad at Caltech, I was very involved in efforts related to sexual assault prevention and improved support systems for survivors of sexual assault. As the chair of the undergraduate Title IX Advisory Board, I helped write policies that were more inclusive of transgender and gender non-conforming students, established partnerships with organizations like Peace Over Violence, and started programs to familiarize students with the Title IX office and reduce the barrier to reporting. I also helped found the Title IX Advocate Program, through which students receive training on how to better support their peers who have experienced Title IX violations. 
+
 ## Caltech Women in Physics, Math and Astronomy
 I helped found the Women in Physics, Math and Astronomy organization at Caltech. As a member of the organizing committee, I planned professional development workshops, journal clubs on social justice issues, and mentoring/networking events.
