@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my full CV [here](/files/CV 12-8-2022.pdf). A short summary is below. 
+You can download a PDF copy of my full CV [here](/files/CV 8-3-2023.pdf). A short summary is below. 
 
 Education
 ======
-* B.S. in Astrophysics and History, Caltech, 2014
+* B.S. in Astrophysics and History, Caltech, 2018
+* Fulbright Research Scholar, Leiden University, 2018-19
 * M.A. in Astrophysics, Princeton University, 2021
 * Ph.D in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2024 (expected)
 
