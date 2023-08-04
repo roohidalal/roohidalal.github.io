@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Teaching
-I have taken opportunities to develop my skills as a teacher in both undergrad and grad school. I have been a teaching assistant for the following courses:
+I have taken opportunities to develop my skills as a teacher in both as both an undergraduate and graduate student. I have been a teaching assistant for the following courses:
 * AST 255 - Life in the Universe (Princeton, Fall 2021)
 * AST 204 - Topics in Modern Astronomy (Princeton, Fall 2021) 
 * Ay 1 - The Evolving Universe (Caltech, Spring 2017, Spring 2018)
