@@ -16,7 +16,7 @@ Education
 * B.S. in Astrophysics and History, Caltech, 2018
 * Fulbright Research Scholar, Leiden University, 2018-19
 * M.A. in Astrophysics, Princeton University, 2021
-* Ph.D in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2024 (expected)
+* Ph.D. in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2024 (expected)
 
 Lead Author Publications
 ======
