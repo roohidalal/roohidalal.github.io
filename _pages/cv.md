@@ -9,19 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my full CV [here](/files/CV 8-3-2023.pdf). A short summary is below. 
+You can download a PDF copy of my full CV [here](/files/CV 7-14-2043.pdf). A short summary is below. 
+
+Appointments
+======
+* Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute and University of British Columbia 2024-
+* Fulbright Research Scholar, Leiden University, 2018-19
 
 Education
 ======
 * B.S. in Astrophysics and History, Caltech, 2018
-* Fulbright Research Scholar, Leiden University, 2018-19
 * M.A. in Astrophysics, Princeton University, 2021
-* Ph.D. in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2024 (expected)
+* Ph.D. in Astrophysics, Certificate in Science, Technology, and Environmental Policy, Princeton University, 2024
 
 Lead Author Publications
 ======
-* __Dalal, R.__, Li, X., Nicola, A., Zuntz, J. et al., [_Hyper Suprime-Cam Year 3 Results: Cosmology from Cosmic Shear Power Spectra_](https://arxiv.org/abs/2304.00701), (2023, submitted to PRD)
-* Li, X., Zhang, T., Sugiyama, S., __Dalal, R.__ et al., [_Hyper Suprime-Cam Year 3 Results: Cosmology from Cosmic Shear Two-point Correlation Functions_](https://arxiv.org/abs/2304.00702), (2023, submitted to PRD)
+* __Dalal, R.__, National Security Interests in Relation to Dark and Quiet Skies (Proceedings of IAU Symposium 385, in press)
+* Ding, J., __Dalal, R.__, et al. Miscentering of Optical Galaxy Clusters Based on Sunyaev-Zeldovich Counterparts (in collaboration review)
+* __Dalal, R.__, Li, X., Nicola, A., Zuntz, J. et al., [_Hyper Suprime-Cam Year 3 Results: Cosmology from Cosmic Shear Power Spectra_](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123519), PRD 108, 123519 (2023)
+* Li, X., Zhang, T., Sugiyama, S., __Dalal, R.__ et al., [_Hyper Suprime-Cam Year 3 Results: Cosmology from Cosmic Shear Two-point Correlation Functions_](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123518), PRD 108, 123518 (2023)
 * Pobre, S., __Dalal, R.__, Strauss, M., Lin, Y-T., [_Are Brightest Cluster Galaxies Special?_](https://iopscience.iop.org/article/10.3847/2515-5172/acb9e1), RNAAS 19 (2023) 7 (primary advisor)
 * Zhang, T., Li, X., __Dalal, R.__, et al., [_A General Framework for Removing Point Spread Function Systematics in Cosmological Weak Lensing Analysis_](https://doi.org/10.1093/mnras/stad1801), (2023, accepted by MNRAS)
 * Rau, M. M., __Dalal, R.__, Zhang, T., Li, X., et al., [_Weak Lensing Tomographic Redshift Distribution Inference for the Hyper Suprime-Cam Subaru Strategic Program three-year shape catalogue_](https://doi.org/10.1093/mnras/stad1962), (2023, accepted by MNRAS)
