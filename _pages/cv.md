@@ -13,7 +13,7 @@ You can download a PDF copy of my full CV [here](/files/CV 7-14-2024.pdf). A sho
 
 Appointments
 ======
-* Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute and University of British Columbia 2024-
+* Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute and University of British Columbia, 2024-
 * Fulbright Research Scholar, Leiden University, 2018-19
 
 Education
