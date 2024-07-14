@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roohi Dalal"
 title_separator          : "-"
 name                     : &name "Roohi Dalal"
-description              : &description "Graduate Student at Princeton University, Department of Astrophysical Sciences"
+description              : &description "Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute"
 url                      : https://roohidalal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roohidalal/roohidalal.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Roohi Dalal"
   avatar           : "Headshot v2.jpeg"
-  bio              : "Graduate Student at Princeton University, Department of Astrophysical Sciences"
-  location         : "Princeton, New Jersey"
+  bio              : "Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute"
+  location         : "Vancouver, BC"
   employer         :
   pubmed           : 
-  email            : "rdalal@princeton.edu"
+  email            : "rdalal@outerspaceinstitute.ca"
   orcid            : "https://orcid.org/0000-0002-7998-9899"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FCnbUZ8AAAAJ"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
