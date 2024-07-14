@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I am passionate about science policy, particularly issues related to the safe and sustainable use of outer space, including space debris and space traffic management, as well as minimizing light pollution from satellite mega-constellations. Some of my work on these topics is described below.
+I am passionate about science policy, particularly issues related to the safe and sustainable use of outer space, including space debris and space traffic management, as well as minimizing light pollution from satellite constellations. Some of my work on these topics is described below.
 
 ## Certificate in Science, Technology, and Environmental Policy
 
-Alongside my PhD in Astrophysics, I am working towards a Certificate in Science, Technology, and Environmental Policy. Through this program, I have taken classes on Weapons of Mass Destruction, Space Security and Policy and National Security Policy, and have worked on projects related to the threat posed by space debris to nuclear strategic stability (see below), and the need for a clearer definition of "outer space" given the growth of new technologies such as hypersonics and fractional orbital bombardment systems.
+Alongside my PhD in Astrophysics, I received a Certificate in Science, Technology, and Environmental Policy. Through this program, I took classes on Weapons of Mass Destruction, Space Security and Policy, and National Security Policy, and have worked on projects related to the threat posed by space debris to nuclear strategic stability (see below), and the need for a clearer definition of "outer space" given the growth of new technologies such as hypersonics and fractional orbital bombardment systems.
 
 ## Space Debris and Space Security
 
@@ -23,4 +23,4 @@ As a 2023 Next-Generation Fellow of the Physicists' Coalition for Nuclear Threat
 
 ## Dark and Quiet Skies Protection and Satellite Light Pollution Mitigation
 
-I am a member of the American Astronomical Society's Committee for the Protection of Astronomy and the Space Environment and the Policy Hub of the International Astronomical Union's Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interferece. In these roles, I am studying national and international legal and policy pathways for protecting the night sky from light pollution caused by the growing number of satellites in orbit, and contributing to a report that will be used by these groups to inform future advocacy efforts. I am also interested facilitating communication between different stakeholders on this issue, including astronomers, the satellite industry and those concerned with national security interests, and am organizing a session at ASCEND 2023 to kick-off these discussions.
+I am a Vice Chair of the American Astronomical Society's Committee for the Protection of Astronomy and the Space Environment and a member of the Policy Hub of the International Astronomical Union's Centre for the Protection of the Dark and Quiet Sky from Satellite Constellation Interferece. In these roles, I am studying national and international legal and policy pathways for protecting the night sky from light pollution caused by the growing number of satellites in orbit, and contributing to a report that will be used by these groups to inform future advocacy efforts. I am also interested facilitating communication between different stakeholders on this issue, including astronomers, the satellite industry and those concerned with national security interests, and organized a session at ASCEND 2023 to kick-off these discussions.
