@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roohi Dalal"
 title_separator          : "-"
 name                     : &name "Roohi Dalal"
-description              : &description "Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute"
+description              : &description "Deputy Director of Public Policy, American Astronomical Society and Fellow, Outer Space Institute"
 url                      : https://roohidalal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roohidalal/roohidalal.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Roohi Dalal"
   avatar           : "Headshot v2.jpeg"
-  bio              : "Postdoctoral Fellow in Space Security and Sustainability, Outer Space Institute"
-  location         : "Vancouver, BC"
+  bio              : "Deputy Director of Public Policy at the American Astronomical Society and Fellow of the Outer Space Institute"
+  location         : "Washington, DC"
   employer         :
   pubmed           : 
   email            : "rdalal@outerspaceinstitute.ca"
