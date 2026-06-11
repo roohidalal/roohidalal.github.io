@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my full CV [here](/files/CV 6-20-2026.pdf). A short summary is below. 
+You can download a PDF copy of my full CV [here](/files/CV 6-10-2026.pdf). A short summary is below. 
 
 Appointments
 ======
